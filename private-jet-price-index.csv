@@ -1,0 +1,66 @@
+type,item,jet_size,low_usd,high_usd,unit,edition,source
+hourly_rate,Turboprop,Turboprop,4500,6000,"per flight hour, all-in",2026-10,https://flyprivateroutes.com/private-jet-price-index/
+hourly_rate,Light jet,Light jet,5500,7300,"per flight hour, all-in",2026-10,https://flyprivateroutes.com/private-jet-price-index/
+hourly_rate,Midsize jet,Midsize jet,6500,8500,"per flight hour, all-in",2026-10,https://flyprivateroutes.com/private-jet-price-index/
+hourly_rate,Super-midsize jet,Super-midsize jet,7800,10000,"per flight hour, all-in",2026-10,https://flyprivateroutes.com/private-jet-price-index/
+hourly_rate,Heavy jet,Heavy jet,10000,13500,"per flight hour, all-in",2026-10,https://flyprivateroutes.com/private-jet-price-index/
+one_way_route,New York to Washington,Light jet,5500,7500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/new-york-to-washington/
+one_way_route,New York to Boston,Light jet,5500,7500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/new-york-to-boston/
+one_way_route,New York to Nantucket,Light jet,5500,7500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/new-york-to-nantucket/
+one_way_route,New York to Martha's Vineyard,Light jet,5500,7500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/new-york-to-marthas-vineyard/
+one_way_route,Los Angeles to Las Vegas,Light jet,5500,7500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/los-angeles-to-las-vegas/
+one_way_route,Las Vegas to Los Angeles,Light jet,5500,7500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/las-vegas-to-los-angeles/
+one_way_route,Los Angeles to San Francisco Bay Area,Light jet,5500,7500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/los-angeles-to-san-francisco/
+one_way_route,Dallas to Houston,Light jet,5500,7500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/dallas-to-houston/
+one_way_route,Dallas to Austin,Light jet,5500,7500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/dallas-to-austin/
+one_way_route,Boston to New York,Light jet,5500,7500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/boston-to-new-york/
+one_way_route,Boston to Nantucket,Light jet,5500,7500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/boston-to-nantucket/
+one_way_route,Boston to Martha's Vineyard,Light jet,5500,7500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/boston-to-marthas-vineyard/
+one_way_route,San Francisco Bay Area to Los Angeles,Light jet,5500,7500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/san-francisco-to-los-angeles/
+one_way_route,Los Angeles to Scottsdale,Light jet,6500,8500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/los-angeles-to-scottsdale/
+one_way_route,San Francisco Bay Area to Las Vegas,Light jet,6500,8500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/san-francisco-to-las-vegas/
+one_way_route,Denver to Aspen,Midsize jet,6500,8500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/denver-to-aspen/
+one_way_route,Atlanta to Palm Beach,Light jet,8500,11000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/atlanta-to-palm-beach/
+one_way_route,Denver to Scottsdale,Light jet,8500,11500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/denver-to-scottsdale/
+one_way_route,Atlanta to Miami,Light jet,9000,12000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/atlanta-to-miami/
+one_way_route,New York to Chicago,Light jet,10500,14000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/new-york-to-chicago/
+one_way_route,New York to Atlanta,Light jet,10500,14000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/new-york-to-atlanta/
+one_way_route,Chicago to New York,Light jet,10500,14000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/chicago-to-new-york/
+one_way_route,New York to Nashville,Light jet,11000,14500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/new-york-to-nashville/
+one_way_route,Dallas to Aspen,Midsize jet,11500,15000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/dallas-to-aspen/
+one_way_route,Los Angeles to Aspen,Midsize jet,12000,15500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/los-angeles-to-aspen/
+one_way_route,Los Angeles to Denver,Light jet,12000,16000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/los-angeles-to-denver/
+one_way_route,Washington to Palm Beach,Light jet,12000,16000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/washington-to-palm-beach/
+one_way_route,Denver to Los Angeles,Light jet,12000,16000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/denver-to-los-angeles/
+one_way_route,Los Angeles to Seattle,Light jet,13000,17500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/los-angeles-to-seattle/
+one_way_route,San Francisco Bay Area to Aspen,Midsize jet,13000,17000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/san-francisco-to-aspen/
+one_way_route,Washington to Miami,Light jet,13000,17000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/washington-to-miami/
+one_way_route,New York to Palm Beach,Light jet,14500,19000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/new-york-to-palm-beach/
+one_way_route,Palm Beach to New York,Light jet,14500,19000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/palm-beach-to-new-york/
+one_way_route,Dallas to Miami,Light jet,14500,19500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/dallas-to-miami/
+one_way_route,New York to Miami,Light jet,15000,20000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/new-york-to-miami/
+one_way_route,Miami to New York,Light jet,15000,20000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/miami-to-new-york/
+one_way_route,New York to Fort Lauderdale,Light jet,15000,19500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/new-york-to-fort-lauderdale/
+one_way_route,New York to Naples,Light jet,15000,20000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/new-york-to-naples/
+one_way_route,Seattle to Scottsdale,Light jet,15000,20000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/seattle-to-scottsdale/
+one_way_route,Dallas to Las Vegas,Light jet,15500,21000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/dallas-to-las-vegas/
+one_way_route,Chicago to Naples,Light jet,15500,20500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/chicago-to-naples/
+one_way_route,Houston to Aspen,Midsize jet,15500,20500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/houston-to-aspen/
+one_way_route,Chicago to Miami,Light jet,16000,21500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/chicago-to-miami/
+one_way_route,Austin to Las Vegas,Light jet,16000,21500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/austin-to-las-vegas/
+one_way_route,Boston to Palm Beach,Light jet,16500,21500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/boston-to-palm-beach/
+one_way_route,Chicago to Aspen,Midsize jet,16500,22000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/chicago-to-aspen/
+one_way_route,Boston to Naples,Light jet,17500,23000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/boston-to-naples/
+one_way_route,Houston to New York,Light jet,18000,24000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/houston-to-new-york/
+one_way_route,Houston to Las Vegas,Light jet,18000,24000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/houston-to-las-vegas/
+one_way_route,Dallas to Los Angeles,Light jet,18000,24000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/dallas-to-los-angeles/
+one_way_route,New York to Dallas,Light jet,20000,26500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/new-york-to-dallas/
+one_way_route,Chicago to Scottsdale,Light jet,20500,27500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/chicago-to-scottsdale/
+one_way_route,Chicago to Las Vegas,Light jet,21500,29000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/chicago-to-las-vegas/
+one_way_route,Los Angeles to Chicago,Midsize jet,24000,31500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/los-angeles-to-chicago/
+one_way_route,New York to Aspen,Midsize jet,27000,35500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/new-york-to-aspen/
+one_way_route,New York to Scottsdale,Midsize jet,33000,43000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/new-york-to-scottsdale/
+one_way_route,Los Angeles to Miami,Super-midsize jet,37500,48000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/los-angeles-to-miami/
+one_way_route,Los Angeles to New York,Super-midsize jet,39000,50000,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/los-angeles-to-new-york/
+one_way_route,New York to Las Vegas,Super-midsize jet,40000,51500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/new-york-to-las-vegas/
+one_way_route,New York to Los Angeles,Super-midsize jet,44000,56500,"one way, whole aircraft",2026-10,https://flyprivateroutes.com/new-york-to-los-angeles/
